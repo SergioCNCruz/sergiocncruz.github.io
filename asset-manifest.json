@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/sergiocncruz.github.io/static/css/main.5f361e03.chunk.css",
+    "main.js": "/sergiocncruz.github.io/static/js/main.57022055.chunk.js",
+    "main.js.map": "/sergiocncruz.github.io/static/js/main.57022055.chunk.js.map",
+    "runtime-main.js": "/sergiocncruz.github.io/static/js/runtime-main.4e0bd4e6.js",
+    "runtime-main.js.map": "/sergiocncruz.github.io/static/js/runtime-main.4e0bd4e6.js.map",
+    "static/js/2.9fcd7ac4.chunk.js": "/sergiocncruz.github.io/static/js/2.9fcd7ac4.chunk.js",
+    "static/js/2.9fcd7ac4.chunk.js.map": "/sergiocncruz.github.io/static/js/2.9fcd7ac4.chunk.js.map",
+    "index.html": "/sergiocncruz.github.io/index.html",
+    "precache-manifest.72ad45247ed8de517008766abff7e47d.js": "/sergiocncruz.github.io/precache-manifest.72ad45247ed8de517008766abff7e47d.js",
+    "service-worker.js": "/sergiocncruz.github.io/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/sergiocncruz.github.io/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.9fcd7ac4.chunk.js.LICENSE.txt": "/sergiocncruz.github.io/static/js/2.9fcd7ac4.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/sergiocncruz.github.io/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4e0bd4e6.js",
+    "static/js/2.9fcd7ac4.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.57022055.chunk.js"
+  ]
+}
